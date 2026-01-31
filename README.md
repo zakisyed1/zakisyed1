@@ -11,7 +11,7 @@ Aspiring Computer Security Professional | YorkU B.Sc. '30
 
 🛡️ Focus: Shifting gears toward network security, ethical hacking, and secure system architecture.
 
-📫 Connect with me: LinkedIn | [Email](zaki.syed404@gmail.com)
+📫 Connect with me:@[LinkedIn](https://www.linkedin.com) | [Email](zaki.syed404@gmail.com)
 
 
 <!-- SUMMARY:END -->

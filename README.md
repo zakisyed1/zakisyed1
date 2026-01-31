@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**zakisyed1/zakisyed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I'm Zaki 👋
+Aspiring Computer Security Professional | YorkU B.Sc. '30
 
-Here are some ideas to get you started:
+<!-- SUMMARY:START -->
+🎓 Current: Senior at Richmond Green SS & incoming Computer Security student at York University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Background: Former Hardware Tech Intern; experienced in component-level repair and OS troubleshooting.
+
+⚡ Specialties: PC optimization, system debloating, and hardware diagnostics.
+
+🛡️ Focus: Shifting gears toward network security, ethical hacking, and secure system architecture.
+
+📫 Connect with me: LinkedIn | [Email](mailto:zaki.syed404@gmail.com)
+
+<!-- SUMMARY:END -->

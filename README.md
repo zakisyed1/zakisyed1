@@ -3,13 +3,13 @@
 Aspiring Computer Security Professional | YorkU B.Sc. '30
 
 <!-- SUMMARY:START -->
-🎓 Current: Senior at Richmond Green SS & incoming Computer Security student at York University.
+🎓 Current: Senior at Richmond Green SS & incoming Digital Technologies student at York University.
 
 🛠️ Background: Former Hardware Tech Intern; experienced in component-level repair and OS troubleshooting.
 
 ⚡ Specialties: PC optimization, system debloating, and hardware diagnostics.
 
-🛡️ Focus: Shifting gears toward network security, ethical hacking, and secure system architecture.
+🛡️ Focus: Transitioning towards network security, ethical hacking, and secure systems.
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com) | [Email](zaki.syed404@gmail.com)
 

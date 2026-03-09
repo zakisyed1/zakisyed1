@@ -3,13 +3,13 @@
 Aspiring Cybersecurity & Systems Engineer | YorkU B.Sc. '30
 
 <!-- SUMMARY:START -->
-🎓 Current: Senior at Richmond Green SS & incoming Digital Technologies student at York University.
+🎓 Senior at Richmond Green SS and incoming Digital Technologies student at York University.
 
-🛠️ Background: Former Hardware Tech Intern; experienced in component-level repair and OS troubleshooting.
+🛠️ Former hardware technician intern with experience in PC repair, operating system troubleshooting, and system diagnostics.
 
-⚡ Specialties: PC optimization, system debloating, and hardware diagnostics.
+⚡ Interested in system optimization, networking, and building technical projects such as Raspberry Pi applications and Python tools.
 
-🛡️ Focus: Transitioning towards network security, ethical hacking, and secure systems.
+🛡️ Currently exploring cybersecurity, network security, and secure systems.
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com) | [Email](zaki.syed404@gmail.com)
 

@@ -1,6 +1,6 @@
 
 ## Hi there! I'm Zaki 👋
-Aspiring Computer Security Professional | YorkU B.Sc. '30
+Aspiring Cybersecurity & Systems Engineer | YorkU B.Sc. '30
 
 <!-- SUMMARY:START -->
 🎓 Current: Senior at Richmond Green SS & incoming Digital Technologies student at York University.

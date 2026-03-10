@@ -11,7 +11,7 @@ Aspiring Cybersecurity & Systems Engineer | YorkU B.Sc. '30
 
 🛡️ Currently exploring cybersecurity, network security, and secure systems.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com) | [Email](zaki.syed404@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/zakisyed1/) | [Email](zaki.syed404@gmail.com)
 
 
 <!-- SUMMARY:END -->

@@ -1,11 +1,11 @@
 
 ## Hi there! I'm Zaki 👋
-Aspiring Cybersecurity & Systems Engineer | YorkU B.Sc. '30
+Aspiring Cybersecurity & Systems Engineer | YorkU BASc '30
 
 <!-- SUMMARY:START -->
-🎓 Senior at Richmond Green SS and incoming Digital Technologies student at York University.
+🎓 Digital Technologies student at York University specializing in cybersecurity.
 
-🛠️ Former hardware technician intern with experience in PC repair, operating system troubleshooting, and system diagnostics.
+🛠️ Currently an Intern @ Acclaim Ability Management as a Technology Analyst.
 
 ⚡ Interested in system optimization, networking, and building technical projects such as Raspberry Pi applications and Python tools.
 
